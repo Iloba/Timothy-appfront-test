@@ -71,8 +71,6 @@ class ProductController extends Controller
     public function destroy(Product $product)
     {
         $this->productService->deleteProduct($product);
-
-        // delete image
         return redirect()->route('admin.products')->with('success', 'Product deleted successfully');
     }
 }

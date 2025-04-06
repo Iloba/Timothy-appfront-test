@@ -1,0 +1,8 @@
+- [x] Improved form validation to sanitize user inputs, reducing the risk of SQL injection and boosting overall application security.
+- [x] Implemented the Repository Pattern to decouple business logic from data access, ensuring cleaner, more testable, and maintainable code.
+- [x] Added feature tests for critical services and routes to ensure reliability, maintainability and catch hidden bugs
+- [x] Made image show in modal (for a better user experience) - on admin list page
+- [x] Added custom error pages to hide Laravel framework details from end users.
+- [x] Structured Blade templates by creating a reusable layout for consistent UI across pages.
+- [x] Improved the login and logout processes by adding stricter validation, secure session handling, and clear error feedback to bolster overall application security.
+- [x] Refactored controllers, commands and repositories 

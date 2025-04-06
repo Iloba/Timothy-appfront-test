@@ -28,7 +28,7 @@
 
 
 
-        <table class="admin-table table-responsive" id="table">
+        <table class="admin-table table-responsive" id="">
             <thead>
                 <tr>
                     <th>ID</th>
